@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "netWorkConnectTest"
   s.version      = "1.0.0"
-  s.summary      = "判断设备的型号以及网络的类型"
+  s.summary      = "judje somthing"
   s.description  = <<-DESC
                    A longer description of netWorkConnectTest in Markdown format.
 
