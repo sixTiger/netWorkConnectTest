@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
   # s.osx.deployment_target = "10.7"
   # s.watchos.deployment_target = "2.0"
   s.source       = { :git => "https://github.com/sixTiger/netWorkConnectTest.git", :tag => "1.0.0" }
-  s.source_files  = "netWorkConnectTest", "netWorkConnectTest/netWorkConnectTest/XXBExction.{h,m}"
+  s.source_files  = "netWorkConnectTest", "netWorkConnectTest/netWorkConnectTest/XXBExction/*.{h,m}"
   s.exclude_files = "netWorkConnectTestTests"
 end
